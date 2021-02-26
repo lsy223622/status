@@ -16,7 +16,7 @@ sites:
     method: HEAD
     url: https://www.google.com
   - name: ZZVoice
-    url: $zzvoice
+    url: $ZZVOICE
   - name: Server TCP ping
     url: 47.101.137.192
 
