@@ -12,13 +12,11 @@ sites:
     url: http://pan.lsy223622.com:2236
   - name: fiora chat
     url: http://chat.lsy223622.com:2236
-  - name: ZZVoice Info
-    url: http://zzvoice.lsy223622.com:411/info
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: ZZVoice
+    url: $zzvoice
   - name: Server TCP ping
     url: 47.101.137.192
 
