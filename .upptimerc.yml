@@ -12,6 +12,8 @@ sites:
     url: http://pan.lsy223622.com:2236
   - name: fiora chat
     url: http://chat.lsy223622.com:2236
+  - name: IP 签名
+    url: http://ipsign.lsy223622.com:2236/
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
