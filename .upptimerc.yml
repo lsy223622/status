@@ -1,34 +1,36 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: lsy223622 # Your GitHub username
+repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: lsy223622.com
+    url: http://lsy223622.com:2236
+  - name: SoHard Cloud
+    url: http://cloud.lsy223622.com:2236
+  - name: SoHard 网盘
+    url: http://pan.lsy223622.com:2236
+  - name: fiora chat
+    url: http://chat.lsy223622.com:2236
+  - name: ZZVoice Info
+    url: http://zzvoice.lsy223622.com:411/info
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
   - name: Secret Site
     url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
+  - name: Server TCP ping
+    url: 47.101.137.192
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: status.lsy223622.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: SoHard Site Status
+  introTitle: "**SoHard Site Status** based on **Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/lsy223622/status/). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
