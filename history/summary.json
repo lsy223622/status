@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/lsy223622.com",
     "slug": "lsy223622-com",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "93.69%",
+    "uptimeDay": "87.42%",
+    "uptimeWeek": "93.69%",
+    "uptimeMonth": "93.69%",
+    "uptimeYear": "93.69%",
     "time": 1175,
-    "timeDay": 1092,
+    "timeDay": 0,
     "timeWeek": 1175,
     "timeMonth": 1175,
     "timeYear": 1175,
     "dailyMinutesDown": {
-      "2021-02-27": 1
+      "2021-02-28": 54,
+      "2021-02-27": 127
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://favicons.githubusercontent.com/cloud.lsy223622.com",
     "slug": "so-hard-cloud",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "93.71%",
+    "uptimeDay": "87.45%",
+    "uptimeWeek": "93.71%",
+    "uptimeMonth": "93.71%",
+    "uptimeYear": "93.71%",
     "time": 1259,
-    "timeDay": 1184,
+    "timeDay": 0,
     "timeWeek": 1259,
     "timeMonth": 1259,
     "timeYear": 1259,
     "dailyMinutesDown": {
-      "2021-02-27": 1
+      "2021-02-28": 54,
+      "2021-02-27": 127
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://favicons.githubusercontent.com/pan.lsy223622.com",
     "slug": "so-hard",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "93.72%",
+    "uptimeDay": "87.47%",
+    "uptimeWeek": "93.72%",
+    "uptimeMonth": "93.72%",
+    "uptimeYear": "93.72%",
     "time": 796,
-    "timeDay": 804,
+    "timeDay": 0,
     "timeWeek": 796,
     "timeMonth": 796,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2021-02-27": 1
+      "2021-02-28": 54,
+      "2021-02-27": 126
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://favicons.githubusercontent.com/chat.lsy223622.com",
     "slug": "fiora-chat",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "93.72%",
+    "uptimeDay": "87.48%",
+    "uptimeWeek": "93.72%",
+    "uptimeMonth": "93.72%",
+    "uptimeYear": "93.72%",
     "time": 592,
-    "timeDay": 554,
+    "timeDay": 0,
     "timeWeek": 592,
     "timeMonth": 592,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2021-02-27": 0
+      "2021-02-28": 54,
+      "2021-02-27": 126
     }
   },
   {
@@ -85,18 +89,19 @@
     "icon": "https://favicons.githubusercontent.com/ipsign.lsy223622.com",
     "slug": "ip",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "93.59%",
+    "uptimeDay": "87.48%",
+    "uptimeWeek": "93.59%",
+    "uptimeMonth": "93.59%",
+    "uptimeYear": "93.59%",
     "time": 1539,
-    "timeDay": 1224,
+    "timeDay": 0,
     "timeWeek": 1539,
     "timeMonth": 1539,
     "timeYear": 1539,
     "dailyMinutesDown": {
-      "2021-02-27": 0
+      "2021-02-28": 54,
+      "2021-02-27": 126
     }
   },
   {
@@ -110,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 71,
-    "timeDay": 66,
-    "timeWeek": 71,
-    "timeMonth": 71,
-    "timeYear": 71,
+    "time": 69,
+    "timeDay": 56,
+    "timeWeek": 69,
+    "timeMonth": 69,
+    "timeYear": 69,
     "dailyMinutesDown": {}
   },
   {
@@ -123,18 +128,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "zz-voice",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "93.66%",
+    "uptimeDay": "87.50%",
+    "uptimeWeek": "93.66%",
+    "uptimeMonth": "93.66%",
+    "uptimeYear": "93.66%",
     "time": 589,
-    "timeDay": 601,
+    "timeDay": 0,
     "timeWeek": 589,
     "timeMonth": 589,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2021-02-27": 0
+      "2021-02-28": 54,
+      "2021-02-27": 126
     }
   },
   {
@@ -148,11 +154,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 340,
-    "timeWeek": 366,
-    "timeMonth": 366,
-    "timeYear": 366,
+    "time": 365,
+    "timeDay": 358,
+    "timeWeek": 365,
+    "timeMonth": 365,
+    "timeYear": 365,
     "dailyMinutesDown": {}
   }
 ]
