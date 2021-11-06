@@ -76,39 +76,35 @@
     "url": "$ZZVOICE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "zz-voice",
-    "status": "down",
-    "uptime": "6.85%",
-    "uptimeDay": "6.85%",
-    "uptimeWeek": "6.85%",
-    "uptimeMonth": "6.85%",
-    "uptimeYear": "6.85%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-11-06": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 376,
+    "timeDay": 376,
+    "timeWeek": 376,
+    "timeMonth": 376,
+    "timeYear": 376,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Server TCP ping",
     "url": "$IP",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "server-tcp-ping",
-    "status": "down",
-    "uptime": "1.45%",
-    "uptimeDay": "1.45%",
-    "uptimeWeek": "1.45%",
-    "uptimeMonth": "1.45%",
-    "uptimeYear": "1.45%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-11-06": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 364,
+    "timeDay": 364,
+    "timeWeek": 364,
+    "timeMonth": 364,
+    "timeYear": 364,
+    "dailyMinutesDown": {}
   }
 ]
