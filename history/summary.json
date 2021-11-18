@@ -4,45 +4,49 @@
     "url": "http://lsy223622.com",
     "icon": "https://favicons.githubusercontent.com/lsy223622.com",
     "slug": "lsy223622-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1006,
     "timeDay": 843,
     "timeWeek": 991,
     "timeMonth": 1006,
     "timeYear": 1006,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-18": 3
+    }
   },
   {
     "name": "SoHard Cloud",
     "url": "http://cloud.lsy223622.com",
     "icon": "https://favicons.githubusercontent.com/cloud.lsy223622.com",
     "slug": "so-hard-cloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 967,
     "timeDay": 1435,
     "timeWeek": 1308,
     "timeMonth": 967,
     "timeYear": 967,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-18": 2
+    }
   },
   {
     "name": "SoHard 网盘",
     "url": "http://pan.lsy223622.com:2236",
     "icon": "https://favicons.githubusercontent.com/pan.lsy223622.com",
     "slug": "so-hard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 641,
     "timeMonth": 763,
     "timeYear": 763,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-18": 0
+    }
   },
   {
     "name": "Test for HEAD",
