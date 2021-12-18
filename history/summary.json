@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/lsy223622.com",
     "slug": "lsy223622-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1178,
-    "timeDay": 4596,
-    "timeWeek": 1938,
-    "timeMonth": 1241,
-    "timeYear": 1178,
-    "dailyMinutesDown": {
-      "2021-12-17": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1182,
+    "timeDay": 4437,
+    "timeWeek": 1971,
+    "timeMonth": 1257,
+    "timeYear": 1182,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SoHard Cloud",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.89%",
-    "time": 896,
-    "timeDay": 960,
-    "timeWeek": 917,
-    "timeMonth": 883,
-    "timeYear": 896,
+    "time": 906,
+    "timeDay": 1394,
+    "timeWeek": 991,
+    "timeMonth": 882,
+    "timeYear": 906,
     "dailyMinutesDown": {
       "2021-12-05": 67
     }
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 677,
-    "timeWeek": 659,
-    "timeMonth": 636,
-    "timeYear": 677,
+    "time": 675,
+    "timeDay": 569,
+    "timeWeek": 645,
+    "timeMonth": 635,
+    "timeYear": 675,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 72,
-    "timeDay": 81,
-    "timeWeek": 68,
+    "time": 71,
+    "timeDay": 47,
+    "timeWeek": 60,
     "timeMonth": 73,
-    "timeYear": 72,
+    "timeYear": 71,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 409,
-    "timeWeek": 444,
-    "timeMonth": 409,
-    "timeYear": 416,
+    "time": 415,
+    "timeDay": 374,
+    "timeWeek": 432,
+    "timeMonth": 406,
+    "timeYear": 415,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 411,
-    "timeWeek": 499,
-    "timeMonth": 394,
-    "timeYear": 393,
+    "time": 392,
+    "timeDay": 347,
+    "timeWeek": 491,
+    "timeMonth": 392,
+    "timeYear": 392,
     "dailyMinutesDown": {}
   }
 ]
