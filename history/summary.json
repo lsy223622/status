@@ -4,19 +4,19 @@
     "url": "http://lsy223622.com",
     "icon": "https://favicons.githubusercontent.com/lsy223622.com",
     "slug": "lsy223622-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1212,
-    "timeDay": 1793,
-    "timeWeek": 2316,
-    "timeMonth": 1324,
-    "timeYear": 1212,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1224,
+    "timeDay": 1808,
+    "timeWeek": 2261,
+    "timeMonth": 1339,
+    "timeYear": 1224,
     "dailyMinutesDown": {
-      "2021-12-21": 0
+      "2021-12-21": 14
     }
   },
   {
