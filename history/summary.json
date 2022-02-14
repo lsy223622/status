@@ -4,10 +4,10 @@
     "url": "http://lsy223622.com",
     "icon": "https://favicons.githubusercontent.com/lsy223622.com",
     "slug": "lsy223622-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 1445,
@@ -16,6 +16,7 @@
     "timeMonth": 1561,
     "timeYear": 1445,
     "dailyMinutesDown": {
+      "2022-02-14": 2,
       "2022-01-23": 25,
       "2022-01-04": 32
     }
@@ -25,10 +26,10 @@
     "url": "http://cloud.lsy223622.com",
     "icon": "https://favicons.githubusercontent.com/cloud.lsy223622.com",
     "slug": "so-hard-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 1195,
@@ -37,6 +38,7 @@
     "timeMonth": 1426,
     "timeYear": 1195,
     "dailyMinutesDown": {
+      "2022-02-14": 2,
       "2021-12-25": 44,
       "2021-12-05": 67
     }
@@ -46,10 +48,10 @@
     "url": "http://pan.lsy223622.com:2236",
     "icon": "https://favicons.githubusercontent.com/pan.lsy223622.com",
     "slug": "so-hard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 634,
@@ -57,7 +59,9 @@
     "timeWeek": 591,
     "timeMonth": 609,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-14": 1
+    }
   },
   {
     "name": "Test for HEAD",
@@ -82,10 +86,10 @@
     "url": "$ZZVOICE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "zz-voice",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 409,
@@ -93,16 +97,18 @@
     "timeWeek": 388,
     "timeMonth": 408,
     "timeYear": 409,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-14": 1
+    }
   },
   {
     "name": "Server TCP ping",
     "url": "$IP",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "server-tcp-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,6 +117,8 @@
     "timeWeek": 344,
     "timeMonth": 362,
     "timeYear": 376,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-14": 0
+    }
   }
 ]
