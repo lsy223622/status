@@ -79,19 +79,19 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "test-for-head",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 64,
-    "timeDay": 56,
-    "timeWeek": 52,
-    "timeMonth": 63,
-    "timeYear": 64,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 65,
+    "timeDay": 77,
+    "timeWeek": 58,
+    "timeMonth": 64,
+    "timeYear": 65,
     "dailyMinutesDown": {
-      "2022-04-13": 0
+      "2022-04-13": 15
     }
   },
   {
@@ -131,7 +131,7 @@
     "timeMonth": 0,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2022-04-13": 1254,
+      "2022-04-13": 1269,
       "2022-04-12": 1440,
       "2022-04-11": 1440,
       "2022-04-10": 1440,
