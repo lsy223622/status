@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lsy223622.com.ico",
     "slug": "lsy223622-com",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "98.63%",
+    "uptime": "99.75%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.69%",
     "time": 1780,
-    "timeDay": 1794,
-    "timeWeek": 1838,
-    "timeMonth": 1728,
-    "timeYear": 1860,
+    "timeDay": 1982,
+    "timeWeek": 1837,
+    "timeMonth": 1746,
+    "timeYear": 1862,
     "dailyMinutesDown": {
       "2023-02-13": 20,
       "2023-01-27": 20,
@@ -49,8 +49,7 @@
       "2022-04-05": 25,
       "2022-03-04": 15,
       "2022-02-23": 28,
-      "2022-02-22": 16,
-      "2022-02-14": 30
+      "2022-02-22": 16
     }
   },
   {
@@ -58,18 +57,19 @@
     "url": "http://cloud.lsy223622.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.lsy223622.com.ico",
     "slug": "so-hard-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.34%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "83.69%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "83.68%",
     "uptimeMonth": "96.25%",
     "uptimeYear": "97.91%",
-    "time": 1797,
-    "timeDay": 1737,
-    "timeWeek": 1724,
-    "timeMonth": 1671,
-    "timeYear": 1946,
+    "time": 1796,
+    "timeDay": 1632,
+    "timeWeek": 1691,
+    "timeMonth": 1676,
+    "timeYear": 1947,
     "dailyMinutesDown": {
+      "2023-02-14": 0,
       "2023-02-13": 19,
       "2023-02-11": 1055,
       "2023-02-10": 570,
@@ -106,8 +106,7 @@
       "2022-02-19": 1440,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
-      "2022-02-16": 580,
-      "2022-02-14": 29
+      "2022-02-16": 580
     }
   },
   {
@@ -115,18 +114,19 @@
     "url": "http://pan.lsy223622.com:2236",
     "icon": "https://icons.duckduckgo.com/ip3/pan.lsy223622.com.ico",
     "slug": "so-hard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "98.69%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "83.69%",
     "uptimeMonth": "96.21%",
     "uptimeYear": "99.48%",
-    "time": 756,
-    "timeDay": 707,
-    "timeWeek": 797,
-    "timeMonth": 694,
+    "time": 753,
+    "timeDay": 675,
+    "timeWeek": 776,
+    "timeMonth": 697,
     "timeYear": 785,
     "dailyMinutesDown": {
+      "2023-02-14": 0,
       "2023-02-13": 19,
       "2023-02-11": 1055,
       "2023-02-10": 570,
@@ -146,8 +146,7 @@
       "2022-05-12": 103,
       "2022-05-11": 20,
       "2022-05-10": 34,
-      "2022-05-09": 92,
-      "2022-02-14": 29
+      "2022-05-09": 92
     }
   },
   {
@@ -161,9 +160,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 68,
-    "timeDay": 54,
-    "timeWeek": 59,
+    "time": 67,
+    "timeDay": 27,
+    "timeWeek": 56,
     "timeMonth": 74,
     "timeYear": 69,
     "dailyMinutesDown": {}
@@ -173,18 +172,19 @@
     "url": "$ZZVOICE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zz-voice",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "98.73%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.78%",
-    "time": 458,
-    "timeDay": 505,
-    "timeWeek": 485,
-    "timeMonth": 461,
-    "timeYear": 470,
+    "time": 459,
+    "timeDay": 539,
+    "timeWeek": 494,
+    "timeMonth": 467,
+    "timeYear": 471,
     "dailyMinutesDown": {
+      "2023-02-14": 0,
       "2023-02-13": 18,
       "2023-01-25": 17,
       "2022-12-09": 24,
@@ -202,8 +202,7 @@
       "2022-05-12": 102,
       "2022-05-11": 19,
       "2022-05-10": 33,
-      "2022-05-09": 90,
-      "2022-02-14": 28
+      "2022-05-09": 90
     }
   },
   {
@@ -212,18 +211,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-tcp-ping",
     "status": "down",
-    "uptime": "26.66%",
+    "uptime": "26.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.83%",
+    "uptimeYear": "6.46%",
     "time": 373,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 363,
+    "timeYear": 361,
     "dailyMinutesDown": {
-      "2023-02-13": 273,
+      "2023-02-14": 834,
+      "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
@@ -563,8 +563,7 @@
       "2022-03-13": 1440,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
-      "2022-03-10": 1216,
-      "2022-02-14": 28
+      "2022-03-10": 1216
     }
   }
 ]
