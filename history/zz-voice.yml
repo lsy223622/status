@@ -1,7 +1,7 @@
 url: $ZZVOICE
-status: up
-code: 200
-responseTime: 514
-lastUpdated: 2023-02-13T23:03:32.712Z
+status: down
+code: 502
+responseTime: 563
+lastUpdated: 2023-02-14T13:53:33.415Z
 startTime: Sat Nov 06 2021 12:54:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
