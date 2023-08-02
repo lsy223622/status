@@ -4,10 +4,10 @@
     "url": "http://lsy223622.com",
     "icon": "https://icons.duckduckgo.com/ip3/lsy223622.com.ico",
     "slug": "lsy223622-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.46%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.73%",
     "time": 1925,
@@ -16,6 +16,7 @@
     "timeMonth": 2488,
     "timeYear": 1982,
     "dailyMinutesDown": {
+      "2023-08-02": 2,
       "2023-08-01": 18,
       "2023-07-31": 16,
       "2023-07-29": 20,
@@ -54,11 +55,11 @@
     "url": "http://cloud.lsy223622.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.lsy223622.com.ico",
     "slug": "so-hard-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.05%",
     "time": 1905,
     "timeDay": 1578,
@@ -66,7 +67,8 @@
     "timeMonth": 1823,
     "timeYear": 1995,
     "dailyMinutesDown": {
-      "2023-08-01": 27,
+      "2023-08-02": 1,
+      "2023-08-01": 18,
       "2023-07-31": 16,
       "2023-07-30": 20,
       "2023-07-29": 20,
@@ -107,9 +109,9 @@
     "slug": "so-hard",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.34%",
     "time": 747,
     "timeDay": 428,
@@ -117,7 +119,6 @@
     "timeMonth": 445,
     "timeYear": 767,
     "dailyMinutesDown": {
-      "2023-08-01": 7,
       "2023-07-23": 15,
       "2023-04-10": 26,
       "2023-04-02": 28,
@@ -208,7 +209,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-01": 1422,
+      "2023-08-02": 2,
+      "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
@@ -571,8 +573,7 @@
       "2022-08-06": 1440,
       "2022-08-05": 1440,
       "2022-08-04": 1440,
-      "2022-08-03": 1440,
-      "2022-08-02": 1440
+      "2022-08-03": 1440
     }
   }
 ]
