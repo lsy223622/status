@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.74%",
-    "time": 1959,
-    "timeDay": 2008,
-    "timeWeek": 2590,
-    "timeMonth": 2558,
+    "time": 1958,
+    "timeDay": 1714,
+    "timeWeek": 2714,
+    "timeMonth": 2553,
     "timeYear": 1936,
     "dailyMinutesDown": {
       "2023-08-15": 22,
@@ -58,14 +58,14 @@
     "status": "up",
     "uptime": "98.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.09%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.07%",
-    "time": 1914,
-    "timeDay": 1817,
-    "timeWeek": 1849,
-    "timeMonth": 1829,
-    "timeYear": 1948,
+    "time": 1915,
+    "timeDay": 1683,
+    "timeWeek": 1830,
+    "timeMonth": 1826,
+    "timeYear": 1942,
     "dailyMinutesDown": {
       "2023-08-15": 22,
       "2023-08-13": 26,
@@ -96,8 +96,7 @@
       "2023-02-10": 570,
       "2022-12-09": 24,
       "2022-10-23": 75,
-      "2022-08-20": 813,
-      "2022-08-19": 29
+      "2022-08-20": 813
     }
   },
   {
@@ -111,10 +110,10 @@
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.36%",
-    "time": 735,
-    "timeDay": 1737,
-    "timeWeek": 551,
-    "timeMonth": 471,
+    "time": 734,
+    "timeDay": 438,
+    "timeWeek": 545,
+    "timeMonth": 470,
     "timeYear": 657,
     "dailyMinutesDown": {
       "2023-08-13": 16,
@@ -147,10 +146,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 68,
-    "timeDay": 41,
-    "timeWeek": 80,
-    "timeMonth": 90,
-    "timeYear": 68,
+    "timeDay": 47,
+    "timeWeek": 83,
+    "timeMonth": 91,
+    "timeYear": 67,
     "dailyMinutesDown": {}
   },
   {
@@ -165,9 +164,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.67%",
     "time": 508,
-    "timeDay": 539,
-    "timeWeek": 450,
-    "timeMonth": 853,
+    "timeDay": 469,
+    "timeWeek": 447,
+    "timeMonth": 852,
     "timeYear": 518,
     "dailyMinutesDown": {
       "2023-08-01": 16,
@@ -192,7 +191,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-tcp-ping",
     "status": "down",
-    "uptime": "19.03%",
+    "uptime": "19.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -203,7 +202,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-18": 36,
+      "2023-08-19": 36,
+      "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
@@ -566,8 +566,7 @@
       "2022-08-23": 1440,
       "2022-08-22": 1440,
       "2022-08-21": 1440,
-      "2022-08-20": 1440,
-      "2022-08-19": 1440
+      "2022-08-20": 1440
     }
   }
 ]
