@@ -11,7 +11,7 @@
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.75%",
     "time": 1969,
-    "timeDay": 1722,
+    "timeDay": 1866,
     "timeWeek": 1878,
     "timeMonth": 2129,
     "timeYear": 1931,
@@ -54,10 +54,10 @@
     "url": "http://cloud.lsy223622.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.lsy223622.com.ico",
     "slug": "so-hard-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "99.04%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.03%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.21%",
     "time": 1892,
@@ -66,6 +66,7 @@
     "timeMonth": 1712,
     "timeYear": 1905,
     "dailyMinutesDown": {
+      "2023-08-29": 1,
       "2023-08-28": 30,
       "2023-08-25": 27,
       "2023-08-24": 19,
@@ -209,7 +210,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-28": 1423,
+      "2023-08-29": 408,
+      "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -572,8 +574,7 @@
       "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
-      "2022-08-30": 1440,
-      "2022-08-29": 1440
+      "2022-08-30": 1440
     }
   }
 ]
