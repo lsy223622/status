@@ -78,9 +78,9 @@
     "slug": "so-hard-cloud",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "97.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.06%",
     "uptimeYear": "98.86%",
     "time": 2027,
     "timeDay": 1561,
@@ -88,7 +88,6 @@
     "timeMonth": 2101,
     "timeYear": 1925,
     "dailyMinutesDown": {
-      "2023-11-24": 9,
       "2023-11-15": 17,
       "2023-11-14": 80,
       "2023-11-10": 34,
@@ -161,10 +160,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/pan.lsy223622.com.ico",
     "slug": "so-hard",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.83%",
+    "uptime": "99.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.29%",
     "time": 700,
     "timeDay": 406,
@@ -172,7 +171,6 @@
     "timeMonth": 595,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2023-11-24": 7,
       "2023-11-19": 16,
       "2023-11-11": 17,
       "2023-11-06": 15,
@@ -289,7 +287,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-24": 1435,
+      "2023-11-25": 39,
+      "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
@@ -652,8 +651,7 @@
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
-      "2022-11-26": 1440,
-      "2022-11-25": 1440
+      "2022-11-26": 1440
     }
   }
 ]
