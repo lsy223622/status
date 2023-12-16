@@ -217,19 +217,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "test-for-head",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 35,
-    "timeWeek": 32,
-    "timeMonth": 44,
+    "timeDay": 45,
+    "timeWeek": 35,
+    "timeMonth": 45,
     "timeYear": 64,
     "dailyMinutesDown": {
-      "2023-12-16": 0
+      "2023-12-16": 9
     }
   },
   {
@@ -294,7 +294,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-16": 1422,
+      "2023-12-16": 1431,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
