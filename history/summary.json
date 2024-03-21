@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
-    "time": 2136,
-    "timeDay": 1989,
-    "timeWeek": 1838,
-    "timeMonth": 2331,
+    "time": 2137,
+    "timeDay": 2039,
+    "timeWeek": 1846,
+    "timeMonth": 2333,
     "timeYear": 2185,
     "dailyMinutesDown": {
       "2023-12-30": 17,
@@ -62,8 +62,7 @@
       "2023-04-10": 27,
       "2023-04-02": 29,
       "2023-03-30": 18,
-      "2023-03-28": 16,
-      "2023-03-22": 20
+      "2023-03-28": 16
     }
   },
   {
@@ -78,10 +77,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
     "time": 1886,
-    "timeDay": 1875,
-    "timeWeek": 1792,
-    "timeMonth": 1726,
-    "timeYear": 1929,
+    "timeDay": 1797,
+    "timeWeek": 1778,
+    "timeMonth": 1719,
+    "timeYear": 1928,
     "dailyMinutesDown": {
       "2023-11-30": 224,
       "2023-11-29": 447,
@@ -137,8 +136,7 @@
       "2023-04-10": 27,
       "2023-04-02": 28,
       "2023-03-30": 18,
-      "2023-03-28": 15,
-      "2023-03-22": 20
+      "2023-03-28": 15
     }
   },
   {
@@ -153,9 +151,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 603,
-    "timeDay": 488,
-    "timeWeek": 480,
-    "timeMonth": 469,
+    "timeDay": 541,
+    "timeWeek": 485,
+    "timeMonth": 470,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2023-11-25": 22,
@@ -196,9 +194,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 59,
-    "timeDay": 36,
-    "timeWeek": 50,
+    "time": 58,
+    "timeDay": 37,
+    "timeWeek": 39,
     "timeMonth": 45,
     "timeYear": 59,
     "dailyMinutesDown": {}
@@ -215,9 +213,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 512,
-    "timeDay": 520,
-    "timeWeek": 472,
-    "timeMonth": 464,
+    "timeDay": 517,
+    "timeWeek": 475,
+    "timeMonth": 462,
     "timeYear": 514,
     "dailyMinutesDown": {
       "2023-11-27": 22,
@@ -247,7 +245,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-tcp-ping",
     "status": "down",
-    "uptime": "14.30%",
+    "uptime": "14.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -258,7 +256,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-20": 39,
+      "2024-03-21": 41,
+      "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
@@ -621,8 +620,7 @@
       "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
-      "2023-03-23": 1440,
-      "2023-03-22": 1440
+      "2023-03-23": 1440
     }
   }
 ]
