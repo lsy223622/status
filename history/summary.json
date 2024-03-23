@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 2138,
-    "timeDay": 1986,
-    "timeWeek": 1906,
-    "timeMonth": 2334,
-    "timeYear": 2185,
+    "timeDay": 2028,
+    "timeWeek": 1904,
+    "timeMonth": 2335,
+    "timeYear": 2187,
     "dailyMinutesDown": {
       "2023-12-30": 17,
       "2023-12-29": 17,
@@ -75,12 +75,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.37%",
     "time": 1887,
-    "timeDay": 1948,
-    "timeWeek": 1838,
-    "timeMonth": 1721,
-    "timeYear": 1929,
+    "timeDay": 1835,
+    "timeWeek": 1833,
+    "timeMonth": 1722,
+    "timeYear": 1930,
     "dailyMinutesDown": {
       "2023-11-30": 224,
       "2023-11-29": 447,
@@ -151,8 +151,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 602,
-    "timeDay": 559,
-    "timeWeek": 509,
+    "timeDay": 502,
+    "timeWeek": 508,
     "timeMonth": 470,
     "timeYear": 524,
     "dailyMinutesDown": {
@@ -195,10 +195,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 58,
-    "timeDay": 27,
-    "timeWeek": 35,
-    "timeMonth": 45,
-    "timeYear": 59,
+    "timeDay": 29,
+    "timeWeek": 36,
+    "timeMonth": 44,
+    "timeYear": 58,
     "dailyMinutesDown": {}
   },
   {
@@ -213,9 +213,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 512,
-    "timeDay": 506,
-    "timeWeek": 490,
-    "timeMonth": 460,
+    "timeDay": 503,
+    "timeWeek": 489,
+    "timeMonth": 461,
     "timeYear": 514,
     "dailyMinutesDown": {
       "2023-11-27": 22,
@@ -244,7 +244,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-tcp-ping",
     "status": "down",
-    "uptime": "14.26%",
+    "uptime": "14.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -255,7 +255,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-22": 39,
+      "2024-03-23": 39,
+      "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
@@ -618,8 +619,7 @@
       "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
-      "2023-03-25": 1440,
-      "2023-03-24": 1440
+      "2023-03-25": 1440
     }
   }
 ]
