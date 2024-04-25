@@ -10,11 +10,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.51%",
-    "time": 2148,
-    "timeDay": 2202,
-    "timeWeek": 1891,
-    "timeMonth": 1886,
-    "timeYear": 2179,
+    "time": 2149,
+    "timeDay": 2095,
+    "timeWeek": 1937,
+    "timeMonth": 1897,
+    "timeYear": 2180,
     "dailyMinutesDown": {
       "2024-04-20": 15,
       "2024-03-28": 249,
@@ -75,9 +75,9 @@
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.34%",
     "time": 1896,
-    "timeDay": 1918,
-    "timeWeek": 1757,
-    "timeMonth": 1820,
+    "timeDay": 1900,
+    "timeWeek": 1812,
+    "timeMonth": 1828,
     "timeYear": 1939,
     "dailyMinutesDown": {
       "2024-03-28": 249,
@@ -145,10 +145,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.87%",
-    "time": 571,
-    "timeDay": 503,
-    "timeWeek": 447,
-    "timeMonth": 466,
+    "time": 570,
+    "timeDay": 549,
+    "timeWeek": 468,
+    "timeMonth": 471,
     "timeYear": 514,
     "dailyMinutesDown": {
       "2024-03-28": 249,
@@ -189,9 +189,9 @@
     "uptimeYear": "100.00%",
     "time": 59,
     "timeDay": 120,
-    "timeWeek": 69,
-    "timeMonth": 60,
-    "timeYear": 57,
+    "timeWeek": 78,
+    "timeMonth": 63,
+    "timeYear": 58,
     "dailyMinutesDown": {}
   },
   {
@@ -206,9 +206,9 @@
     "uptimeMonth": "94.67%",
     "uptimeYear": "99.21%",
     "time": 514,
-    "timeDay": 521,
-    "timeWeek": 462,
-    "timeMonth": 487,
+    "timeDay": 495,
+    "timeWeek": 474,
+    "timeMonth": 490,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2024-04-03": 94,
@@ -238,7 +238,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-tcp-ping",
     "status": "down",
-    "uptime": "13.74%",
+    "uptime": "13.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -249,7 +249,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-24": 41,
+      "2024-04-25": 43,
+      "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
@@ -612,8 +613,7 @@
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
-      "2023-04-27": 1440,
-      "2023-04-26": 1440
+      "2023-04-27": 1440
     }
   }
 ]
