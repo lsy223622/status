@@ -13,7 +13,7 @@
     "time": 2202,
     "timeDay": 2906,
     "timeWeek": 4154,
-    "timeMonth": 2808,
+    "timeMonth": 2826,
     "timeYear": 2242,
     "dailyMinutesDown": {
       "2024-05-09": 18,
@@ -72,17 +72,16 @@
     "slug": "so-hard-cloud",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.31%",
     "time": 1915,
     "timeDay": 2015,
     "timeWeek": 2149,
-    "timeMonth": 1949,
+    "timeMonth": 1947,
     "timeYear": 1955,
     "dailyMinutesDown": {
-      "2024-05-14": 9,
       "2024-05-12": 17,
       "2024-05-10": 51,
       "2024-05-09": 44,
@@ -155,7 +154,7 @@
     "time": 563,
     "timeDay": 479,
     "timeWeek": 510,
-    "timeMonth": 495,
+    "timeMonth": 494,
     "timeYear": 518,
     "dailyMinutesDown": {
       "2024-05-10": 15,
@@ -200,7 +199,7 @@
     "time": 60,
     "timeDay": 56,
     "timeWeek": 82,
-    "timeMonth": 88,
+    "timeMonth": 87,
     "timeYear": 58,
     "dailyMinutesDown": {
       "2024-05-01": 41
@@ -220,7 +219,7 @@
     "time": 516,
     "timeDay": 397,
     "timeWeek": 518,
-    "timeMonth": 503,
+    "timeMonth": 504,
     "timeYear": 521,
     "dailyMinutesDown": {
       "2024-05-06": 31,
@@ -262,7 +261,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-14": 1412,
+      "2024-05-15": 42,
+      "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
@@ -625,8 +625,7 @@
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
-      "2023-05-17": 1440,
-      "2023-05-16": 1440
+      "2023-05-17": 1440
     }
   }
 ]
