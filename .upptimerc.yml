@@ -4,11 +4,9 @@ repo: status # The name of this repository
 
 sites:
   - name: lsy223622.com
-    url: http://lsy223622.com
+    url: https://lsy223622.com
   - name: SoHard Cloud
-    url: http://cloud.lsy223622.com
-  - name: SoHard 网盘
-    url: http://pan.lsy223622.com:2236
+    url: https://cloud.lsy223622.com
   - name: Test for HEAD
     method: HEAD
     url: https://www.google.com
