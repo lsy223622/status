@@ -80,9 +80,9 @@
     "slug": "so-hard-cloud",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.24%",
     "time": 1922,
     "timeDay": 1484,
@@ -90,7 +90,7 @@
     "timeMonth": 1875,
     "timeYear": 1970,
     "dailyMinutesDown": {
-      "2024-06-24": 29,
+      "2024-06-24": 20,
       "2024-06-14": 18,
       "2024-06-13": 16,
       "2024-06-06": 18,
@@ -188,14 +188,15 @@
     "uptime": "97.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "35.64%",
-    "uptimeYear": "93.84%",
+    "uptimeMonth": "35.53%",
+    "uptimeYear": "93.83%",
     "time": 509,
     "timeDay": 303,
     "timeWeek": 471,
     "timeMonth": 489,
     "timeYear": 525,
     "dailyMinutesDown": {
+      "2024-06-25": 44,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -246,7 +247,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-tcp-ping",
     "status": "down",
-    "uptime": "12.86%",
+    "uptime": "12.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -257,6 +258,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2024-06-25": 44,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -620,8 +622,7 @@
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
-      "2023-06-27": 1440,
-      "2023-06-26": 1440
+      "2023-06-27": 1440
     }
   }
 ]
