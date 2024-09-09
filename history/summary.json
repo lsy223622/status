@@ -8,13 +8,13 @@
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.34%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "99.43%",
-    "time": 1903,
-    "timeDay": 765,
-    "timeWeek": 746,
-    "timeMonth": 806,
-    "timeYear": 1882,
+    "time": 1900,
+    "timeDay": 736,
+    "timeWeek": 724,
+    "timeMonth": 805,
+    "timeYear": 1878,
     "dailyMinutesDown": {
       "2024-09-03": 20,
       "2024-08-30": 16,
@@ -76,9 +76,7 @@
       "2023-09-17": 57,
       "2023-09-13": 35,
       "2023-09-12": 35,
-      "2023-09-11": 44,
-      "2023-09-10": 102,
-      "2023-09-09": 119
+      "2023-09-11": 44
     }
   },
   {
@@ -90,13 +88,13 @@
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.28%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "99.25%",
-    "time": 1895,
-    "timeDay": 1280,
-    "timeWeek": 1265,
-    "timeMonth": 1350,
-    "timeYear": 1886,
+    "time": 1893,
+    "timeDay": 1320,
+    "timeWeek": 1301,
+    "timeMonth": 1356,
+    "timeYear": 1885,
     "dailyMinutesDown": {
       "2024-09-03": 20,
       "2024-09-02": 16,
@@ -168,9 +166,7 @@
       "2023-09-14": 19,
       "2023-09-13": 84,
       "2023-09-12": 36,
-      "2023-09-11": 33,
-      "2023-09-10": 53,
-      "2023-09-09": 55
+      "2023-09-11": 33
     }
   },
   {
@@ -185,8 +181,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 60,
-    "timeDay": 59,
-    "timeWeek": 55,
+    "timeDay": 53,
+    "timeWeek": 57,
     "timeMonth": 72,
     "timeYear": 56,
     "dailyMinutesDown": {
@@ -199,18 +195,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zz-voice",
     "status": "down",
-    "uptime": "90.49%",
+    "uptime": "90.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.57%",
+    "uptimeYear": "73.02%",
     "time": 528,
-    "timeDay": 513,
-    "timeWeek": 506,
+    "timeDay": 475,
+    "timeWeek": 504,
     "timeMonth": 486,
-    "timeYear": 496,
+    "timeYear": 497,
     "dailyMinutesDown": {
-      "2024-09-07": 50,
+      "2024-09-09": 53,
+      "2024-09-08": 1440,
+      "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -330,7 +328,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-tcp-ping",
     "status": "down",
-    "uptime": "11.94%",
+    "uptime": "11.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -341,7 +339,9 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 50,
+      "2024-09-09": 53,
+      "2024-09-08": 1440,
+      "2024-09-07": 1440,
       "2024-09-06": 1440,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
@@ -703,9 +703,7 @@
       "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
-      "2023-09-11": 1440,
-      "2023-09-10": 1440,
-      "2023-09-09": 1440
+      "2023-09-11": 1440
     }
   }
 ]
