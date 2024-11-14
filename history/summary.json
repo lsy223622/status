@@ -10,11 +10,11 @@
     "uptimeWeek": "98.93%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.64%",
-    "time": 1556,
-    "timeDay": 663,
-    "timeWeek": 746,
-    "timeMonth": 719,
-    "timeYear": 1505,
+    "time": 1554,
+    "timeDay": 643,
+    "timeWeek": 722,
+    "timeMonth": 716,
+    "timeYear": 1501,
     "dailyMinutesDown": {
       "2024-11-13": 88,
       "2024-11-12": 20,
@@ -71,8 +71,7 @@
       "2023-12-04": 37,
       "2023-11-19": 44,
       "2023-11-18": 27,
-      "2023-11-16": 35,
-      "2023-11-15": 17
+      "2023-11-16": 35
     }
   },
   {
@@ -85,12 +84,12 @@
     "uptimeDay": "93.90%",
     "uptimeWeek": "98.94%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "99.40%",
-    "time": 1713,
-    "timeDay": 1439,
-    "timeWeek": 1619,
-    "timeMonth": 1410,
-    "timeYear": 1643,
+    "uptimeYear": "99.41%",
+    "time": 1712,
+    "timeDay": 1333,
+    "timeWeek": 1542,
+    "timeMonth": 1401,
+    "timeYear": 1642,
     "dailyMinutesDown": {
       "2024-11-13": 88,
       "2024-11-12": 19,
@@ -145,8 +144,7 @@
       "2024-03-28": 249,
       "2023-11-30": 224,
       "2023-11-29": 447,
-      "2023-11-25": 24,
-      "2023-11-15": 17
+      "2023-11-25": 24
     }
   },
   {
@@ -161,7 +159,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 59,
-    "timeDay": 72,
+    "timeDay": 60,
     "timeWeek": 62,
     "timeMonth": 63,
     "timeYear": 57,
@@ -175,18 +173,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zz-voice",
     "status": "down",
-    "uptime": "84.93%",
+    "uptime": "84.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.33%",
+    "uptimeYear": "55.26%",
     "time": 554,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1155,
+    "timeMonth": 1149,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2024-11-13": 1152,
+      "2024-11-14": 54,
+      "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
@@ -364,7 +363,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-tcp-ping",
     "status": "down",
-    "uptime": "11.21%",
+    "uptime": "11.20%",
     "uptimeDay": "3.00%",
     "uptimeWeek": "0.43%",
     "uptimeMonth": "0.00%",
@@ -375,7 +374,8 @@
     "timeMonth": 479,
     "timeYear": 479,
     "dailyMinutesDown": {
-      "2024-11-13": 1108,
+      "2024-11-14": 54,
+      "2024-11-13": 1396,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
@@ -738,8 +738,7 @@
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
-      "2023-11-16": 1440,
-      "2023-11-15": 1440
+      "2023-11-16": 1440
     }
   }
 ]
