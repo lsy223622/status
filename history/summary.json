@@ -200,19 +200,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-server-derp",
     "status": "up",
-    "uptime": "6.07%",
-    "uptimeDay": "6.07%",
-    "uptimeWeek": "6.07%",
-    "uptimeMonth": "6.07%",
-    "uptimeYear": "6.07%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 790,
     "timeDay": 790,
     "timeWeek": 790,
     "timeMonth": 790,
     "timeYear": 790,
-    "dailyMinutesDown": {
-      "2025-01-04": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DERP Server DERP",
@@ -220,18 +218,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "derp-server-derp",
     "status": "up",
-    "uptime": "4.20%",
-    "uptimeDay": "4.20%",
-    "uptimeWeek": "4.20%",
-    "uptimeMonth": "4.20%",
-    "uptimeYear": "4.20%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 829,
     "timeDay": 829,
     "timeWeek": 829,
     "timeMonth": 829,
     "timeYear": 829,
-    "dailyMinutesDown": {
-      "2025-01-04": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
