@@ -7,13 +7,12 @@ sites:
     url: https://lsy223622.com
   - name: SoHard Cloud
     url: https://cloud.lsy223622.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: ZZVoice
-    url: $ZZVOICE
-  - name: Server TCP ping
-    url: $IP
+  - name: API
+    url: https://api.lsy223622.com/api-test.php
+  - name: Main Server DERP
+    url: $Server-DERP
+  - name: DERP Server DERP
+    url: $DERP-DERP
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
