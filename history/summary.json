@@ -6,9 +6,9 @@
     "slug": "lsy223622-com",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.17%",
     "time": 805,
     "timeDay": 908,
@@ -16,7 +16,6 @@
     "timeMonth": 786,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2025-10-04": 9,
       "2025-09-03": 21,
       "2025-09-01": 337,
       "2025-08-28": 74,
@@ -78,8 +77,7 @@
       "2024-10-27": 23,
       "2024-10-24": 31,
       "2024-10-21": 17,
-      "2024-10-17": 20,
-      "2024-10-05": 20
+      "2024-10-17": 20
     }
   },
   {
@@ -90,7 +88,7 @@
     "status": "up",
     "uptime": "96.01%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "33.85%",
+    "uptimeWeek": "34.50%",
     "uptimeMonth": "20.86%",
     "uptimeYear": "84.55%",
     "time": 1503,
@@ -206,8 +204,7 @@
       "2024-10-31": 17,
       "2024-10-22": 23,
       "2024-10-11": 44,
-      "2024-10-09": 548,
-      "2024-10-05": 20
+      "2024-10-09": 548
     }
   },
   {
@@ -216,11 +213,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.lsy223622.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "75.50%",
+    "uptime": "75.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.50%",
+    "uptimeYear": "75.51%",
     "time": 822,
     "timeDay": 1317,
     "timeWeek": 878,
