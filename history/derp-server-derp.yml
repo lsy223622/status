@@ -1,7 +1,7 @@
 url: $DERP_DERP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-03-02T07:15:32.537Z
+status: up
+code: 200
+responseTime: 2203
+lastUpdated: 2026-03-02T07:57:33.205Z
 startTime: 2025-01-04T08:17:27.518Z
 generator: Upptime <https://github.com/upptime/upptime>
