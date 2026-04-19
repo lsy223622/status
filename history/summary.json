@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.76%",
+    "uptimeYear": "98.83%",
     "time": 821,
-    "timeDay": 722,
-    "timeWeek": 749,
-    "timeMonth": 779,
+    "timeDay": 829,
+    "timeWeek": 767,
+    "timeMonth": 780,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2026-03-02": 43,
@@ -54,9 +54,7 @@
       "2025-05-05": 701,
       "2025-04-30": 26,
       "2025-04-21": 182,
-      "2025-04-20": 114,
-      "2025-04-19": 115,
-      "2025-04-18": 250
+      "2025-04-20": 114
     }
   },
   {
@@ -69,12 +67,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.36%",
+    "uptimeYear": "85.43%",
     "time": 1530,
-    "timeDay": 1256,
-    "timeWeek": 1445,
-    "timeMonth": 1390,
-    "timeYear": 1536,
+    "timeDay": 1469,
+    "timeWeek": 1441,
+    "timeMonth": 1394,
+    "timeYear": 1537,
     "dailyMinutesDown": {
       "2026-03-04": 176,
       "2026-03-02": 42,
@@ -161,9 +159,7 @@
       "2025-05-05": 700,
       "2025-04-30": 26,
       "2025-04-21": 182,
-      "2025-04-20": 123,
-      "2025-04-19": 115,
-      "2025-04-18": 274
+      "2025-04-20": 123
     }
   },
   {
@@ -172,15 +168,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.lsy223622.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "85.52%",
+    "uptime": "85.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.85%",
+    "uptimeYear": "95.27%",
     "time": 816,
-    "timeDay": 779,
-    "timeWeek": 803,
-    "timeMonth": 785,
+    "timeDay": 745,
+    "timeWeek": 779,
+    "timeMonth": 783,
     "timeYear": 815,
     "dailyMinutesDown": {
       "2026-03-02": 42,
@@ -223,9 +219,7 @@
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
-      "2025-04-20": 123,
-      "2025-04-19": 115,
-      "2025-04-18": 761
+      "2025-04-20": 123
     }
   },
   {
@@ -238,11 +232,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.57%",
+    "uptimeYear": "98.64%",
     "time": 781,
-    "timeDay": 778,
-    "timeWeek": 786,
-    "timeMonth": 772,
+    "timeDay": 815,
+    "timeWeek": 787,
+    "timeMonth": 776,
     "timeYear": 793,
     "dailyMinutesDown": {
       "2025-09-09": 1193,
@@ -274,9 +268,7 @@
       "2025-05-01": 35,
       "2025-04-30": 25,
       "2025-04-21": 182,
-      "2025-04-20": 248,
-      "2025-04-19": 115,
-      "2025-04-18": 269
+      "2025-04-20": 248
     }
   },
   {
@@ -290,11 +282,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 765,
-    "timeDay": 790,
-    "timeWeek": 802,
-    "timeMonth": 761,
-    "timeYear": 773,
+    "time": 766,
+    "timeDay": 845,
+    "timeWeek": 799,
+    "timeMonth": 765,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2026-03-02": 42,
       "2026-02-08": 52,
