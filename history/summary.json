@@ -6,10 +6,10 @@
     "slug": "lsy223622-com",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.02%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.01%",
     "time": 808,
     "timeDay": 873,
     "timeWeek": 769,
@@ -50,7 +50,7 @@
       "2026-01-18": 12,
       "2026-02-08": 54,
       "2026-03-02": 43,
-      "2026-06-03": 6
+      "2026-06-03": 57
     }
   },
   {
@@ -60,10 +60,10 @@
     "slug": "so-hard-cloud",
     "status": "down",
     "uptime": "96.55%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "85.63%",
+    "uptimeDay": "96.06%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "85.62%",
     "time": 1552,
     "timeDay": 2079,
     "timeWeek": 1939,
@@ -151,7 +151,7 @@
       "2026-02-08": 53,
       "2026-03-02": 42,
       "2026-03-04": 176,
-      "2026-06-03": 6
+      "2026-06-03": 57
     }
   },
   {
@@ -160,11 +160,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.lsy223622.com.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "86.84%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.34%",
+    "uptime": "86.83%",
+    "uptimeDay": "96.07%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.33%",
     "time": 814,
     "timeDay": 781,
     "timeWeek": 783,
@@ -195,7 +195,7 @@
       "2026-01-18": 10,
       "2026-02-08": 53,
       "2026-03-02": 42,
-      "2026-06-03": 5
+      "2026-06-03": 57
     }
   },
   {
@@ -204,11 +204,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-server-derp",
     "status": "down",
-    "uptime": "98.65%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.57%",
-    "uptimeYear": "98.76%",
+    "uptime": "98.64%",
+    "uptimeDay": "96.41%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.75%",
     "time": 780,
     "timeDay": 913,
     "timeWeek": 745,
@@ -239,7 +239,7 @@
       "2025-09-09": 1193,
       "2025-09-08": 460,
       "2026-05-14": 627,
-      "2026-06-03": 1
+      "2026-06-03": 52
     }
   },
   {
@@ -249,9 +249,9 @@
     "slug": "derp-server-derp",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.79%",
     "time": 768,
     "timeDay": 795,
@@ -273,7 +273,7 @@
       "2026-01-18": 10,
       "2026-02-08": 52,
       "2026-03-02": 42,
-      "2026-06-03": 0
+      "2026-06-03": 51
     }
   }
 ]
