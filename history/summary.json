@@ -61,7 +61,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.39%",
-    "uptimeYear": "86.59%",
+    "uptimeYear": "86.61%",
     "time": 1559,
     "timeDay": 1960,
     "timeWeek": 2029,
@@ -194,9 +194,9 @@
     "url": "$SERVER_DERP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "main-server-derp",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "98.65%",
@@ -228,7 +228,8 @@
       "2025-09-08": 460,
       "2026-05-14": 627,
       "2026-06-03": 673,
-      "2026-06-04": 15
+      "2026-06-04": 15,
+      "2026-06-18": 0
     }
   },
   {
