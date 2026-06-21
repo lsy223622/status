@@ -9,9 +9,7 @@ sites:
     url: https://cloud.lsy223622.com
   - name: API
     url: https://api.lsy223622.com/api-test.php
-  - name: Main Server DERP
-    url: $SERVER_DERP
-  - name: DERP Server DERP
+  - name: DERP
     url: $DERP_DERP
 
 status-website:
