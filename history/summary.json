@@ -50,17 +50,17 @@
     "url": "https://cloud.lsy223622.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.lsy223622.com.ico",
     "slug": "so-hard-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "96.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "91.32%",
+    "uptimeYear": "91.33%",
     "time": 1563,
-    "timeDay": 2064,
-    "timeWeek": 1815,
-    "timeMonth": 1799,
-    "timeYear": 1577,
+    "timeDay": 1480,
+    "timeWeek": 1684,
+    "timeMonth": 1770,
+    "timeYear": 1576,
     "dailyMinutesDown": {
       "2025-07-24": 350,
       "2025-07-23": 1440,
@@ -119,7 +119,8 @@
       "2026-03-04": 176,
       "2026-06-03": 689,
       "2026-06-04": 15,
-      "2026-06-23": 36
+      "2026-06-23": 36,
+      "2026-07-19": 0
     }
   },
   {
